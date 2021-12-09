@@ -9,3 +9,10 @@ body {
 .header p {
 	color: #50524F;
 }
+
+.movieTitle {
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.releaseDate {
+	font-weight: bold;
+}
